@@ -10,6 +10,7 @@ Ushbu dastur faqat ta'lim maqsadida tadbiq qilindi biz sizning harakatingizga ja
 # O'rnatish va ishga tushurish
 
 ```
+git clone https://github.com/mavsumbekdev/network_scanner.git
 cd network_scanner
 pip install scapy
 sudo python3 scanner.py
